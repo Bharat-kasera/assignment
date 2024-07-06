@@ -31,6 +31,7 @@ export default function Home() {
         <Pixelgrade/>
       </section>
       <section className='bg-[#F5F7FA] relative dark:bg-gray-900 ' >
+        
         <BusinessStats/>
       </section>
       <section className='bg-[#FFFFFF] relative dark:bg-gray-950' >
