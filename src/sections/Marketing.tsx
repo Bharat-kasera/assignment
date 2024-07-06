@@ -30,11 +30,12 @@ const Marketing = () => {
           Caring is the new marketing
         </h1>
         <p className="text-gray-500 text-base mt-4 dark:text-gray-400">
-          The Nexcent blog is the best place to read about the latest membership
-          insights, trends and more. <br /> See who's joining the community,
-          read about how our community are increasing their membership income
-          and lot's more.
-        </p>
+    The Nexcent blog is the best place to read about the latest membership
+    insights, trends and more. <br /> See who joining the community,
+    read about how our community are increasing their membership income
+    and lot more.
+</p>
+
       </div>
       <div className="mt-16 flex lg:flex-row flex-col justify-between items-center gap-3 lg:gap-5">
         {MarkettingContent.map((item) => (
